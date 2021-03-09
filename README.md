@@ -4,24 +4,24 @@ This file describes the process taken to prepare results for the EIL COI paper
 
 ## Datasets
 
-Flushing and Bayside maps
-Flushing and Bayside shapefiles
+[Flushing](https://github.com/PrincetonUniversity/PGP_COI_Paper/blob/master/Data/New%20York/Flushing.zip) and [Bayside](https://github.com/PrincetonUniversity/PGP_COI_Paper/blob/master/Data/New%20York/Bayside.zip) shapefiles
 
-New York census blocks
-New York population
+[New York census blocks](https://catalog.data.gov/dataset/tiger-line-shapefile-2014-2010-state-new-york-2010-census-block-state-based-shapefile)
+[New York population](https://github.com/PrincetonUniversity/PGP_COI_Paper/tree/master/Data/New%20York/Blocks)
 
-Greater Richmond COIs shapefile
+[NY 1997 Congressional map](https://github.com/PrincetonUniversity/PGP_COI_Paper/blob/master/Data/New%20York/NY%20District%20Maps/1997.zip)
+[NY 2002 Congressional map](https://github.com/PrincetonUniversity/PGP_COI_Paper/blob/master/Data/New%20York/NY%20District%20Maps/2002.zip)
+[NY 2012 Congressional map](https://github.com/PrincetonUniversity/PGP_COI_Paper/blob/master/Data/New%20York/NY%20District%20Maps/2012.zip)
 
-Virginia census blocks
-Virginia population
+[Greater Richmond COIs shapefile](https://github.com/PrincetonUniversity/PGP_COI_Paper/blob/master/Data/Virginia/Richmond%20COIs.zip)
 
-NY 1997 Congressional map
-NY 2002 Congressional map
-NY 2012 Congressional map
+[Virginia census blocks](https://www2.census.gov/geo/pvs/tiger2010st/51_Virginia/51/tl_2010_51_tabblock10.zip)
+[Virginia population](https://github.com/PrincetonUniversity/PGP_COI_Paper/tree/master/Data/Virginia/blocks)
 
-Virginia 2012 State Senate map
-Virginia 2018 State Senate map
-Princeton Gerrymandering Project's Reform map
+
+[Virginia 2012 State Senate map](https://github.com/PrincetonUniversity/PGP_COI_Paper/blob/master/Data/Virginia/unconstitutional%20map.zip)
+[Virginia 2018 State Senate map](https://github.com/PrincetonUniversity/PGP_COI_Paper/blob/master/Data/Virginia/court%20ordered%20map.zip)
+[Princeton Gerrymandering Project's Reform map](https://github.com/PrincetonUniversity/PGP_COI_Paper/blob/master/Data/Virginia/reform%20map.zip)
 
 ## Processing
 
